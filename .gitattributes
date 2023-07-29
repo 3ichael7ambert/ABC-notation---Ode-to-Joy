@@ -1,0 +1,3 @@
+*.abc linguist-detectable=true
+*.abc linguist-language=ABC
+
